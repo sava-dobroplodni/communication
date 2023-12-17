@@ -39,6 +39,12 @@
 		<repository>
 			<id>github</id>
 			<url>https://maven.pkg.github.com/sava-dobroplodni/communication</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
 		</repository>
 	</distributionManagement>
 
